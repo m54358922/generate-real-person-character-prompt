@@ -1,0 +1,7 @@
+interface:
+  display_name: "通用真人角色提示词"
+  short_description: "拆解真人角色设定并生成三视图、四格设定图提示词模板"
+  default_prompt: "使用 $generate-real-person-character-prompt，把人物描述整理成角色母本和多视图提示词。"
+
+policy:
+  allow_implicit_invocation: true
