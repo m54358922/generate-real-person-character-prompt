@@ -57,16 +57,7 @@ git clone https://github.com/m54358922/generate-real-person-character-prompt.git
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
-├── references/
-│   └── character-prompt-template.md
-└── packages/
-    └── shengcai-mcp-project-research-1.0.0.zip
+└── references/
+    └── character-prompt-template.md
 ```
-
-## 生财 MCP 项目调研 Skill 发布包
-
-`packages/shengcai-mcp-project-research-1.0.0.zip` 是“生财 MCP 项目调研”Skill 的发布包，和上面的角色资产 Skill 分开使用。
-
-- 下载地址：[shengcai-mcp-project-research-1.0.0.zip](https://github.com/m54358922/generate-real-person-character-prompt/releases/download/v1.0.0/shengcai-mcp-project-research-1.0.0.zip)
-- SHA-256：`e764866be1deb881bc456611568e940b0577cb1ea7495428831ea22fba2b59c8`
 
